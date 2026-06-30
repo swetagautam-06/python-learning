@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (fun_with_op)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (fun_with_op)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (Dictionary)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Dictionary)" project-jdk-type="Python SDK" />
+>>>>>>> dfb91b1d8941ba2611c7896d717ce49957bc8f3a
 </project>
